@@ -1,4 +1,5 @@
 {
+  "name": "pacman-live",
   "version": "0.0.7",
   "description": "level1",
   "main": "js/pacman.js",
@@ -9,5 +10,6 @@
   "scripts": {
     "start": "serve ./public"
   },
+  "author": "",
   "license": "ISC"
 }
