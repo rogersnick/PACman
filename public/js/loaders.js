@@ -11,7 +11,6 @@ export function loadImage(url)
 }
 
 export function loadLevel(name) {
-    console.log(`../levels/${name}.json`);
     return fetch(`/levels/${name}.json`)
     .then(r => r.json());
 }

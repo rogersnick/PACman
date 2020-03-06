@@ -128,7 +128,6 @@ export function loadCharacterSprites() {
 
         sprites.defineTile('800', 10, 6);
         sprites.defineTile('q', 8, 8);
-        sprites.defineTile('closed', 0, 5);
         sprites.defineTile('wall-horizontal',0, 4);
         sprites.defineTile('wall-vertical', 1, 4);
         sprites.defineTile('wall-bottomleft', 2, 4);
